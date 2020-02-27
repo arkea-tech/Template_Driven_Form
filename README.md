@@ -17,3 +17,5 @@ The project is based on a Angular form tutorial wich can be found here : https:/
 ## Run :
 
 `cd  angular-form && ng run.`
+
+Enter on a browser : `http://localhost:4200.
