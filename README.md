@@ -3,3 +3,7 @@ Several features include the user of : ngModel to create two-way data bindings f
 The form contains several required fields marks with blue/green/red left sidebars along a submit button which can be used only if requirements are satisfied.
 
 The project is based on a Angular form tutorial wich can be found here : https://angular.io/guide/forms.
+
+#Dependencies : Node.js, TypeScript, Angular ClI.
+
+#Run : cd  angular-form && ng run.
