@@ -12,7 +12,7 @@ The project is based on a Angular form tutorial wich can be found here : https:/
 
 * TypeScript : `npm install -g typescript`.
 
-* Angular CLI : `sudo npm install -g @angular/cli.
+* Angular CLI : `sudo npm install -g @angular/cli`.
 
 ## Run :
 
