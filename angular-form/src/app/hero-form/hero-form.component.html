@@ -20,9 +20,10 @@
         <div class="form-group">
             <label for="power">Hero Power</label>
             <select class="form-control"
-            [className]="{
+            [ngClass]="{
                 'powerNone': model.power == 'None'
-            }" id="power"
+            }"
+            id="power"
             required
             [(ngModel)]="model.power" name="power">
 
